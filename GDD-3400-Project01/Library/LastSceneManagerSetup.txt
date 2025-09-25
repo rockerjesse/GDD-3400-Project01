@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GDD 3400 - Herding Sheep/Scenes/Procedural.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
